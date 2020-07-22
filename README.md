@@ -10,6 +10,7 @@
 </a>
 
 <br/>
+<br/>
 
 Hi, I'm Manpreet Singh, a Data Scientist 🚀 from India, currently, I'm a Team Member 🙍🏽‍♂️ [@TSG](https://github.com/TSG-GTBIT) and ECE Undergrad 👨🏽‍💻 [@GTBIT](https://www.gtbit.org/). Besides programming, i like to workout 🏋️.
 
@@ -41,5 +42,4 @@ Hi, I'm Manpreet Singh, a Data Scientist 🚀 from India, currently, I'm a Team 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br/>
-[![Manpreet's github stats](https://github-readme-stats.vercel.app/api?username=manpreet2000)](https://github.com/manpreet2000/github-readme-stats)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=manpreet2000&show_icons=true&hide_border=true)
