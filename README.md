@@ -1,4 +1,4 @@
-### Hi there 👋🏽, I,m Manpreet
+### Hi there 👋🏽, I'm Manpreet
 
 <br/>
 
