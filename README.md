@@ -20,7 +20,7 @@ Hi, I'm Manpreet Singh, a Data Scientist 🚀 from India, currently, I'm a Team 
  
  **Here's what you need to know**
 
-- 👨🏽‍💻 I’m currently working on [Knowledge-graphs](https://thenextweb.com/podium/2019/06/11/what-is-a-knowledge-graph-and-how-does-one-work/);
+- 👨🏽‍💻 I’m currently working on [Computer vision technologies](https://en.wikipedia.org/wiki/Computer_vision);
 - 🌱 I’m currently learning NLP and tensorflow.js; 
 - 🤔 I’m getting along with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
