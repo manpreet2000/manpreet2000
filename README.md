@@ -8,7 +8,9 @@
 <a href="https://www.instagram.com/manpreet_1578/">
   <img align="left" alt="Manpreet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<a href="https://manpreet2000.github.io/manpreet.github.io/">
+  <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"" />
+</a>
 <br/>
 <br/>
 
@@ -21,12 +23,12 @@ Hi, I'm Manpreet Singh, a Data Scientist 🚀 from India, currently, I'm a Team 
  **Here's what you need to know**
 
 - 👨🏽‍💻 I’m currently working on [Computer vision technologies](https://en.wikipedia.org/wiki/Computer_vision);
-- 🌱 I’m currently learning NLP and tensorflow.js; 
+- 🌱 I’m currently learning Object detection and Segmentation; 
 - 🤔 I’m getting along with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️  I like to code in Python and Java
+- ⚡️  I like to code in Python and Java;
 - 📫 How to reach me: manpreetsingh5772000@gmail.com;
-- 💼 Looking for Data science opportunity
+- 💼 Looking for Data science opportunity;
 
 <br/>
 
@@ -41,4 +43,4 @@ Hi, I'm Manpreet Singh, a Data Scientist 🚀 from India, currently, I'm a Team 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=manpreet2000&show_icons=true&hide_border=true)
+![Manpreet's github stats](https://github-readme-stats.vercel.app/api?username=manpreet2000&show_icons=true&hide_border=true&theme=radical)
