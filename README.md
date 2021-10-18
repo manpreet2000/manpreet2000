@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-Hi, I'm Manpreet Singh, a Data Scientist 🚀 from India, currently, I'm a Team Member 🙍🏽‍♂️ [@TSG](https://github.com/TSG-GTBIT) and ECE Undergrad 👨🏽‍💻 [@GTBIT](https://www.gtbit.org/). Besides programming, i like to workout 🏋️.
+Hi, I'm Manpreet Singh, Software Engineer 🚀 from India, currently, I'm a Software Developer 🙍🏽‍♂️ [@BLOCK8](https://www.block8.com/) and WEB3 enthusiastic. Besides programming, i like to workout 🏋️.
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/U7gTVK2ch30xsUskCL/giphy.gif" />
  
@@ -22,13 +22,13 @@ Hi, I'm Manpreet Singh, a Data Scientist 🚀 from India, currently, I'm a Team 
  
  **Here's what you need to know**
 
-- 👨🏽‍💻 I’m currently working on [Computer vision technologies](https://en.wikipedia.org/wiki/Computer_vision);
-- 🌱 I’m currently learning Object detection and Segmentation; 
+- 👨🏽‍💻 I’m currently working on AMM based Decentralized Exchange;
+- 🌱 I’m currently learning ReactJs, NESTjs and web3 development; 
 - 🤔 I’m getting along with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️  I like to code in Python and Java;
+- ⚡️  I like to code in JavaScript, Python and Java;
 - 📫 How to reach me: manpreetsingh5772000@gmail.com;
-- 💼 Looking for Data science opportunity;
+- 💼 Work from home made me do more projects than ever;
 
 <br/>
 
@@ -36,10 +36,10 @@ Hi, I'm Manpreet Singh, a Data Scientist 🚀 from India, currently, I'm a Team 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
