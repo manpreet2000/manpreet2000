@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-Hi, I'm Manpreet Singh, Software Engineer 🚀 from India, currently, I'm a Software Developer 🙍🏽‍♂️ [@BLOCK8](https://www.block8.com/) and WEB3 enthusiastic. Besides programming, i like to workout 🏋️.
+Hi, I'm Manpreet Singh, Software Engineer 🚀 from India, currently, I'm a Software Developer 🙍🏽‍♂️ [@Talink](https://www.talink.io/). Besides programming, i like to workout 🏋️.
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/U7gTVK2ch30xsUskCL/giphy.gif" />
  
@@ -22,8 +22,9 @@ Hi, I'm Manpreet Singh, Software Engineer 🚀 from India, currently, I'm a Soft
  
  **Here's what you need to know**
 
-- 👨🏽‍💻 I’m currently working on AMM based Decentralized Exchange;
-- 🌱 I’m currently learning ReactJs, NESTjs and web3 development; 
+- 👨🏽‍💻 I’m currently working on building SaaS using AI;
+- ✨ My recent SaaS is [@TabRizz](https://www.tabrizz.com/).
+- 🌱 I’m currently learning scalable backend system design and Kubernetes.  
 - 🤔 I’m getting along with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️  I like to code in JavaScript, Python and Java;
@@ -34,11 +35,10 @@ Hi, I'm Manpreet Singh, Software Engineer 🚀 from India, currently, I'm a Soft
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
